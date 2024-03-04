@@ -1,0 +1,17 @@
+export const ngoList = [
+  'Amrapali Utkarsh Sangh',
+  'Aadhar Bahuddeshiya Sanstha ',
+  'Aadhar Samajkalyan Manavhitkari Sanghatana',
+  'Aaghaz Educational and multipurpose Society',
+  'Aakansha Foundation',
+  'Seva Mandir',
+  'Nischaya Foundation',
+  'Navyug Foundation',
+  'Sam and Jane Foundation',
+  'Simley Children Society',
+  'Help Age India',
+  'Mitra',
+  'Hope Begins Foundation',
+  'Ekam Foundation',
+  'Meer Foundation',
+];
